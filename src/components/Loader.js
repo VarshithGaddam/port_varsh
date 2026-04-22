@@ -72,7 +72,7 @@ const Loader = ({ onLoadingComplete }) => {
             animate={{ y: 0, opacity: 1 }}
             transition={{ delay: 0.8 }}
           >
-            Software Engineer
+            Developer
           </motion.p>
 
           <motion.div

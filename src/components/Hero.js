@@ -66,7 +66,7 @@ const Hero = ({ setActiveSection }) => {
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.5 }}
         >
-          Software Engineer | Full-Stack Developer | 380+ LeetCode Problems
+          380+ LeetCode Problems | 365+ Day Streak
         </motion.p>
 
         <motion.div
